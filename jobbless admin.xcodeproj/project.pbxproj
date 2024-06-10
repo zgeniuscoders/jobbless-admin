@@ -11,6 +11,22 @@
 		A44CC2632C03AC9E00095845 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44CC2622C03AC9E00095845 /* ContentView.swift */; };
 		A44CC2652C03ACA400095845 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A44CC2642C03ACA400095845 /* Assets.xcassets */; };
 		A44CC2682C03ACA400095845 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A44CC2672C03ACA400095845 /* Preview Assets.xcassets */; };
+		A44F52902C17A2F800B6044F /* HomeViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F528F2C17A2F800B6044F /* HomeViewViewModel.swift */; };
+		A44F52922C17A3B800B6044F /* Job.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F52912C17A3B800B6044F /* Job.swift */; };
+		A44F52942C17A72F00B6044F /* MessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F52932C17A72F00B6044F /* MessageView.swift */; };
+		A44F529B2C17A93F00B6044F /* MessageFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F529A2C17A93F00B6044F /* MessageFieldView.swift */; };
+		A44F529D2C17AEDE00B6044F /* MessageItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F529C2C17AEDE00B6044F /* MessageItem.swift */; };
+		A44F52A02C17AF6300B6044F /* UserMessageItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F529F2C17AF6300B6044F /* UserMessageItemView.swift */; };
+		A4A105D92C17826400EB3218 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105D82C17826400EB3218 /* LoginView.swift */; };
+		A4A105DC2C17827D00EB3218 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105DB2C17827D00EB3218 /* LoginViewViewModel.swift */; };
+		A4A105E02C17854200EB3218 /* TextFieldModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105DF2C17854200EB3218 /* TextFieldModifier.swift */; };
+		A4A105E22C1788FB00EB3218 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105E12C1788FB00EB3218 /* RegisterView.swift */; };
+		A4A105E42C17891100EB3218 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105E32C17891100EB3218 /* RegisterViewViewModel.swift */; };
+		A4A105E62C178F8E00EB3218 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105E52C178F8E00EB3218 /* User.swift */; };
+		A4A105EC2C17990300EB3218 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105EB2C17990300EB3218 /* HomeView.swift */; };
+		A4A105EE2C17991300EB3218 /* UserMessageListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105ED2C17991300EB3218 /* UserMessageListView.swift */; };
+		A4A105F02C17992300EB3218 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105EF2C17992300EB3218 /* SettingView.swift */; };
+		A4A105F22C17993500EB3218 /* AddJobView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A105F12C17993500EB3218 /* AddJobView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,22 @@
 		A44CC2622C03AC9E00095845 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A44CC2642C03ACA400095845 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A44CC2672C03ACA400095845 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A44F528F2C17A2F800B6044F /* HomeViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewViewModel.swift; sourceTree = "<group>"; };
+		A44F52912C17A3B800B6044F /* Job.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Job.swift; sourceTree = "<group>"; };
+		A44F52932C17A72F00B6044F /* MessageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MessageView.swift; path = ../../../../jobbless/jobbless/Views/Messages/View/MessageView.swift; sourceTree = "<group>"; };
+		A44F529A2C17A93F00B6044F /* MessageFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MessageFieldView.swift; path = ../../../../../jobbless/jobbless/Views/Messages/Componets/MessageFieldView.swift; sourceTree = "<group>"; };
+		A44F529C2C17AEDE00B6044F /* MessageItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageItem.swift; sourceTree = "<group>"; };
+		A44F529F2C17AF6300B6044F /* UserMessageItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserMessageItemView.swift; sourceTree = "<group>"; };
+		A4A105D82C17826400EB3218 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		A4A105DB2C17827D00EB3218 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
+		A4A105DF2C17854200EB3218 /* TextFieldModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldModifier.swift; sourceTree = "<group>"; };
+		A4A105E12C1788FB00EB3218 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
+		A4A105E32C17891100EB3218 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
+		A4A105E52C178F8E00EB3218 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A4A105EB2C17990300EB3218 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		A4A105ED2C17991300EB3218 /* UserMessageListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserMessageListView.swift; sourceTree = "<group>"; };
+		A4A105EF2C17992300EB3218 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		A4A105F12C17993500EB3218 /* AddJobView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddJobView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +83,10 @@
 		A44CC25F2C03AC9E00095845 /* jobbless admin */ = {
 			isa = PBXGroup;
 			children = (
+				A4A105DD2C17850400EB3218 /* Utilities */,
+				A4A105D42C17821500EB3218 /* Models */,
+				A4A105D62C17822900EB3218 /* ViewModels */,
+				A4A105D52C17822100EB3218 /* Views */,
 				A44CC2602C03AC9E00095845 /* jobbless_adminApp.swift */,
 				A44CC2622C03AC9E00095845 /* ContentView.swift */,
 				A44CC2642C03ACA400095845 /* Assets.xcassets */,
@@ -65,6 +101,122 @@
 				A44CC2672C03ACA400095845 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A44F528D2C17A21D00B6044F /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				A44F528F2C17A2F800B6044F /* HomeViewViewModel.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		A44F52972C17A8E900B6044F /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				A44F529A2C17A93F00B6044F /* MessageFieldView.swift */,
+				A44F529C2C17AEDE00B6044F /* MessageItem.swift */,
+				A44F529F2C17AF6300B6044F /* UserMessageItemView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		A4A105D42C17821500EB3218 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105E52C178F8E00EB3218 /* User.swift */,
+				A44F52912C17A3B800B6044F /* Job.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A4A105D52C17822100EB3218 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105D72C17824D00EB3218 /* Auth */,
+				A4A105E72C1798A300EB3218 /* Home */,
+				A4A105EA2C1798EA00EB3218 /* addJob */,
+				A4A105E92C1798DE00EB3218 /* Messages */,
+				A4A105E82C1798AC00EB3218 /* Settings */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A4A105D62C17822900EB3218 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				A44F528D2C17A21D00B6044F /* Home */,
+				A4A105DA2C17826C00EB3218 /* Auth */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		A4A105D72C17824D00EB3218 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105D82C17826400EB3218 /* LoginView.swift */,
+				A4A105E12C1788FB00EB3218 /* RegisterView.swift */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		A4A105DA2C17826C00EB3218 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105DB2C17827D00EB3218 /* LoginViewViewModel.swift */,
+				A4A105E32C17891100EB3218 /* RegisterViewViewModel.swift */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		A4A105DD2C17850400EB3218 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105DE2C17851300EB3218 /* Modifier */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		A4A105DE2C17851300EB3218 /* Modifier */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105DF2C17854200EB3218 /* TextFieldModifier.swift */,
+			);
+			path = Modifier;
+			sourceTree = "<group>";
+		};
+		A4A105E72C1798A300EB3218 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105EB2C17990300EB3218 /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		A4A105E82C1798AC00EB3218 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105EF2C17992300EB3218 /* SettingView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		A4A105E92C1798DE00EB3218 /* Messages */ = {
+			isa = PBXGroup;
+			children = (
+				A44F52972C17A8E900B6044F /* Components */,
+				A44F52932C17A72F00B6044F /* MessageView.swift */,
+				A4A105ED2C17991300EB3218 /* UserMessageListView.swift */,
+			);
+			path = Messages;
+			sourceTree = "<group>";
+		};
+		A4A105EA2C1798EA00EB3218 /* addJob */ = {
+			isa = PBXGroup;
+			children = (
+				A4A105F12C17993500EB3218 /* AddJobView.swift */,
+			);
+			path = addJob;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +289,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4A105EC2C17990300EB3218 /* HomeView.swift in Sources */,
+				A4A105D92C17826400EB3218 /* LoginView.swift in Sources */,
+				A4A105F22C17993500EB3218 /* AddJobView.swift in Sources */,
+				A44F529D2C17AEDE00B6044F /* MessageItem.swift in Sources */,
+				A4A105E02C17854200EB3218 /* TextFieldModifier.swift in Sources */,
 				A44CC2632C03AC9E00095845 /* ContentView.swift in Sources */,
+				A44F529B2C17A93F00B6044F /* MessageFieldView.swift in Sources */,
+				A44F52922C17A3B800B6044F /* Job.swift in Sources */,
+				A4A105EE2C17991300EB3218 /* UserMessageListView.swift in Sources */,
+				A4A105E22C1788FB00EB3218 /* RegisterView.swift in Sources */,
+				A44F52A02C17AF6300B6044F /* UserMessageItemView.swift in Sources */,
+				A4A105E62C178F8E00EB3218 /* User.swift in Sources */,
+				A44F52942C17A72F00B6044F /* MessageView.swift in Sources */,
 				A44CC2612C03AC9E00095845 /* jobbless_adminApp.swift in Sources */,
+				A4A105DC2C17827D00EB3218 /* LoginViewViewModel.swift in Sources */,
+				A4A105E42C17891100EB3218 /* RegisterViewViewModel.swift in Sources */,
+				A44F52902C17A2F800B6044F /* HomeViewViewModel.swift in Sources */,
+				A4A105F02C17992300EB3218 /* SettingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
